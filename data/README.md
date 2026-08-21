@@ -1,6 +1,6 @@
 # Dataset
 
-This folder documents the Ugandan smartphone coffee-leaf dataset used in the
+This folder documents the Ethiopian smartphone coffee-leaf dataset used in the
 notebook. Dataset images are not stored in this Git repository. Download the
 CC BY 4.0 source dataset from Mendeley Data:
 https://doi.org/10.17632/k36wnd6knb.1
